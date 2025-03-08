@@ -85,3 +85,4 @@ extern const u8 gWaterStarter3Name[];
 {gWaterStarter3Name, 20},\
 
 #endif
+
